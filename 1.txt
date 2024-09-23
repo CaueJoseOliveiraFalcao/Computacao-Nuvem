@@ -1,0 +1,55 @@
+vantagens da computação em nuvem 
+    Economico
+    Escalavel
+    Elasticidade
+    Atualização constante
+    Implantação rapida
+    Acesso global
+    Disponibilidade
+    Seguranca
+Desvantagens
+    Perda de controle
+    Interrupção de servicos em nuvem
+    Seguranca
+
+Caracteristicas 
+    On-Demand Self-Service
+        liberação rapida dos recursos pelo progamador 
+    Broad networkacess
+        aCESSO por varios disposotivos distintos 
+    Resourse pooling
+        Compartilhação de recurso de comp=utação entre varios clientes diferentes
+    Rapid elasticity 
+        Capacidade de reduzir e amplicar confirma nessecario 
+    Measured Service 
+        medir exatamente os recursos sendo usados 
+
+Camadas 
+    Aplicação
+        maior nivel de abstração como os servicos oferedicos oas usuarios
+    Plataforma 
+        servicoe sde aplicaçõe sque podem ser utilizadas para desenolcer
+    Infrawstrututira 
+        servico de amraxenamento e rede onde estao roteadores e os servideores 
+
+Atores da computação em nuvem 
+    Provedores de servico 
+        disponibilizam os servidoas as usuarios por meio de interfaces baseadas ana internet 
+
+Modelos de Serviço
+    Infraestrutura como Servico IaaS
+        Permite usar recursosde Infraestrutura sobe demandas 
+        como armazenamento e virtualização e rede 
+        o provedir firnece os servicos enquanti o usuaio cuida do sistema operaç~ional 
+        isso e servico de maquinas virtuais 
+    Plataforma como Serviço PaaS
+        fornece uma plataforma de nuvem felivel e escalave 
+        para desenvolver e umporantae e executar apps 
+        com ferramentas para criar aplicativos 
+    Software como servico SaaS
+        aplicativos baseados em nuve como elamil servios de amarmxenamento 
+        como dropbox
+
+Public cloud – nuvem pública
+    qualquer pessia pode acessar com senha e ususario 
+Private cloud – nuvem privada
